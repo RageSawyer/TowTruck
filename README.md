@@ -1,7 +1,7 @@
 # TowTruck
 RageMP TowTruck
 
- ![ Alt text](towtruck.gif) / ! [](towtruck.gif)
+ ![ Alt text](towtruck.gif) [](towtruck.gif)
 
 Setup:
 client_packages / index.js
